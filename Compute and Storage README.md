@@ -1,0 +1,1 @@
+I built a highly available VM workload with zone resilience, VM scale sets, storage services, backup, autoscaling, and patch management. I created this project to replicate a business need simulating a web tier that can distribute traffic across availability zones, scale with demand, store data, recover from failure, and receive updates.   
